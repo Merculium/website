@@ -1,6 +1,6 @@
 # Merculium R&D
 
-**Merculium R&D** is a multidisciplinary studio focused on innovation in cosmetics, permaculture and sound-based research. We combine scientific precision with creative exploration to design sustainable systems, products, and experiences.
+**Merculium R&D** is a multidisciplinary research and development laboratory focused on innovation in biotechnology, focused mainly on cosmetics, chemistry, permaculture & biology. We combine scientific precision with creative exploration to design sustainable systems, products, and experiences.
 
 ## Key Areas of Activity
 
@@ -13,19 +13,17 @@
 
 ### Consulting & Creative Strategy Development
 - Marketing audits, branding, and digital communication  
-- Graphic design, e-commerce management, and SEO  
+- Graphic design, e-commerce management and SEO  
 - Social media strategy, Meta platform setup, content audits
 
-### Ecological & Permaculture Research
+### Biology & Permaculture Research
 - Experimental research on plant response to environmental factors  
 - Development of low-impact agricultural methods and technologies  
 - Integration of permaculture principles with scientific processes
-
-### Sound & Vibrations Research
 - Research on the effects of sound and frequency on plants and humans  
 - Design of sonic experiments in garden and lab environments  
 - Organization of immersive, interdisciplinary events (festivals, workshops)  
-- Exploration of vibrational therapy, plant intelligence, and eco-artistic practices
+- Exploration of vibrational therapy, plant intelligence and eco-artistic practices
 
 ---
 

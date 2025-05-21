@@ -9,6 +9,17 @@ body {
     padding: 0 1rem;
 }
 
+head {
+    /* Logo styling */
+.logo {
+  height: 40px; /* adjust as needed */
+  max-width: 150px;
+}
+
+.logo-link {
+  display: block;
+}
+
 header {
     background-color: #ffffff;
     color: #74FF00;
@@ -37,15 +48,7 @@ header {
   color: #888;
 }
 
-/* Logo styling */
-.logo {
-  height: 40px; /* adjust as needed */
-  max-width: 150px;
-}
 
-.logo-link {
-  display: block;
-}
 
 header h1 {
     margin: 0;

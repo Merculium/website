@@ -40,3 +40,16 @@ footer {
     font-size: 0.9rem;
     color: #777;
 }
+
+
+nav {
+    margin-top: 1em;
+}
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #333;
+}
+nav a:hover {
+    text-decoration: underline;
+}

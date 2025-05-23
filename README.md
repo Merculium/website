@@ -1,6 +1,6 @@
 # Merculium R&D
 
-**Merculium R&D** is a multidisciplinary research and development laboratory focused on innovation in biotechnology, focused mainly on cosmetics, chemistry, permaculture & biology. We combine scientific precision with creative exploration to design sustainable systems, products, and experiences.
+**Merculium R&D** is a multidisciplinary research and development laboratory focused on innovation in biotechnology, cosmetics, chemistry, permaculture & biology. We combine scientific precision with creative exploration to design sustainable systems, products, and experiences.
 
 ## Key Areas of Activity
 

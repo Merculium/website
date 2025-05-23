@@ -1,1 +1,40 @@
 
+body {
+  font-family: 'Glacial Indifference', sans-serif;
+  margin: 0;
+  background-color: #f9f8f6;
+  color: #1c1c1c;
+}
+
+header, footer {
+  background-color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav.nav-links {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+nav a {
+  color: #1c1c1c;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.responsive-img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+}
+
+@media (max-width: 600px) {
+  nav.nav-links {
+    flex-direction: column;
+  }
+}:contentReference[oaicite:26]{index=26}
